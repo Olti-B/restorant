@@ -1,0 +1,7 @@
+{
+  "name": "restorant",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
