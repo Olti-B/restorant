@@ -1,3 +1,3 @@
 export default {
-    temp= "Ã¦Ã¸Ã¥"
+    temp= "‘›†"
 } 	
